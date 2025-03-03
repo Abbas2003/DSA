@@ -4,6 +4,8 @@ Welcome to my **DSA (Data Structures & Algorithms) GitHub Repository**! 🚀
 
 This repository contains my structured **6-week DSA learning plan**, covering fundamental concepts along with **LeetCode practice questions** with clear explanations.
 
+**My LeetCode Profile**: https://leetcode.com/u/Abbas_dev/
+
 ---
 
 ## 📅 **DSA Learning Plan**
